@@ -21,11 +21,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ashan.maduwantha.944023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan.maduwantha.944023" height="40" width="40" /></a>
-<a href="https://instagram.com/ashan_maduwantha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashan_maduwantha_" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/fa_enxidk886bxog0tv8gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fa_enxidk886bxog0tv8gw" height="40" width="50" /></a>
+<a href="https://instagram.com/oshadhie__indudunu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshadhie__indudunu_" height="30" width="40" /></a>
 </p>
 
 
