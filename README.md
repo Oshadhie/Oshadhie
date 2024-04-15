@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning *OOP with Java*
+- 🌱 I’m currently learning *MERN stack*
 
 - 🤝 I’m Undergraduate at *SLIIT*
 
