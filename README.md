@@ -15,7 +15,7 @@
 
 - 🤝 I’m Undergraduate at *SLIIT*
 
-- 💬 Ask me about *Web development*
+- 💬 Ask me about *Web & Mobile Development*
 
 - 📫 How to reach me *oshadhiindudunu@gmail.com*
 
